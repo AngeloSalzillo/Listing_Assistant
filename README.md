@@ -50,7 +50,7 @@ that need to run at the same time, so you need to:
 - Open a terminal in the project root directory and run: node src/backend/server.js
 - Open a second terminal in the project root directory and run: npm run dev
 
-Vite will provide a local URL, normally http://localhost:5173
+Vite will provide a local URL, normally http://localhost:5173, open it to see the interface working
 
 ## Use of the Application
 
