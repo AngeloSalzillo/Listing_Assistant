@@ -17,7 +17,7 @@ npm --version
 NOTE: if the .env file doesn't generate downloading this repo, create:
 src/backend/.env
 
-with inside just:
+with inside just:  
 GROQ_API_KEY="xxxxxxx"  
 MOCK_MODE=true
 
