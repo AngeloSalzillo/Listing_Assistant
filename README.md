@@ -14,13 +14,6 @@ You can verify the installations by running in the terminal:
 node --version
 npm --version
 
-NOTE: if the .env file doesn't generate downloading this repo, create:
-src/backend/.env
-
-with inside just:  
-GROQ_API_KEY="xxxxxxx"  
-MOCK_MODE=true
-
 ## Installation
 
 After downloading the project, open a terminal in
