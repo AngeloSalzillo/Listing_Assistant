@@ -83,8 +83,3 @@ Other two more cases have been considered, this time regarding the description i
 3) The user doesn't insert any description, and they press the button "Generate"
     - An error message ("You need to type a description") will be displayed
 
-## Time spent
-
-I spent roughly 3-4 hours to have a first version of the web app working "fine", and about the same amount to refine it, test it, address unconsidered situations (the ones that took the most time).
-
-
